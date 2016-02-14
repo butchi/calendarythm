@@ -1,0 +1,24 @@
+{
+  "name": "calendarhythm",
+  "version": "0.0.1",
+  "description": "music with calendar",
+  "main": "quickstart.js",
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butchi/calendarhythm.git"
+  },
+  "author": "IWABUCHI Yuuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butchi/calendarhythm/issues"
+  },
+  "homepage": "https://github.com/butchi/calendarhythm#readme"
+}
